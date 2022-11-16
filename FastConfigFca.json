@@ -1,0 +1,20 @@
+{
+    "Language": "vi",
+    "PreKey": "WhatIsImpossible",
+    "AutoUpdate": true,
+    "MainColor": "#9900FF",
+    "MainName": "[ BASIL ]",
+    "Uptime": true,
+    "Login2Fa": true,
+    "AutoLogin": false,
+    "BroadCast": false,
+    "EncryptFeature": false,
+    "ResetDataLogin": false,
+    "AutoRestartMinutes": 0,
+    "HTML": {
+        "HTML": false,
+        "UserName": "Guest",
+        "MusicLink": "https://drive.google.com/uc?id=1zlAALlxk1TnO7jXtEP_O6yvemtzA2ukA&export=download"
+    },
+    "AuthString": "JC3W PFUO TRJV VFZN DGXH R4A5 VOVS 33ES"
+}
